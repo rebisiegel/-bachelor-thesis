@@ -1,1 +1,0 @@
-# Allamvizsga - cukraszda weboldal

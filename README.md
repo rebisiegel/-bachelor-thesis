@@ -1,1 +1,1 @@
-# -bachelor-thesis
+# Allamvizsga - cukraszda weboldal
